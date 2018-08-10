@@ -6,7 +6,7 @@ Practice fetching external data to display
 * Error message if search input doesn't exist
 * Loading message for client if fetching is loading
 
-## Technologies
+## Technology
 
 * JavaScript
 * ReactJS
