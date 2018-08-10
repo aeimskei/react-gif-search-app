@@ -10,6 +10,7 @@ Practice fetching external data to display
 
 * JavaScript
 * ReactJS
+* GIFs API
 * CSS
 
 <kbd>![alt text](img/gifs-search.png "GIFs Search App")</kbd>
